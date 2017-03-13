@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/zemoso/AndroidStudioProjects/YoutubeLiveStream/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9566874fa4077f3c970328f2f7e9c0a97de6534">
+        <dex dex="/home/zemoso/AndroidStudioProjects/YoutubeLiveStream/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6853ea39fce314e12e95cab0d0f538629738e4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zemoso/AndroidStudioProjects/YoutubeLiveStream/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/zemoso/AndroidStudioProjects/YoutubeLiveStream/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3fdab7b8d736df0739aee43d6c2c3bcfeb397d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zemoso/AndroidStudioProjects/YoutubeLiveStream/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/zemoso/AndroidStudioProjects/YoutubeLiveStream/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_b3573cec300ccee9a27fc03065c43dd1e859c4b8/classes.dex" />
+    </item>
+
+</items>
